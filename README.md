@@ -1,6 +1,3 @@
-Here's a **README.md** file for your GitHub repository:  
-
----
 
 ### **Netflix Clone 🎬 | React + Firebase**  
 🚀 **Created by Krish Maniyar**  
@@ -22,7 +19,7 @@ This is a **Netflix Clone** built using **React.js**. It fetches movie data from
 - **Frontend:** React.js, Vite, React Router  
 - **Authentication:** Firebase  
 - **Data Fetching:** API (TMDb)  
-- **Styling:** CSS /  
+- **Styling:** CSS  
 
 ---
 
